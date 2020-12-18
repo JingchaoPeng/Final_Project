@@ -12,7 +12,8 @@ $ pip install -i https://test.pypi.org/simple/ finnhub
 
 ## Features
 
-- This package allow users to get data and data visualization from Finnhub API.
+- This package allow users to get data and data visualization from [Finnhub API](https://finnhub.io/docs/api).
+
 
 ## Dependencies
 
