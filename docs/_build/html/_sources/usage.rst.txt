@@ -1,0 +1,7 @@
+=====
+Usage
+=====
+
+To use finnhub in a project::
+
+    import finnhub
