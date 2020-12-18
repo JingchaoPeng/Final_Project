@@ -17,15 +17,18 @@ $ pip install -i https://test.pypi.org/simple/ finnhub
 
 ## Dependencies
 
-- numpy
-- matplotlib.pyplot
-- pandas 
-- requests
-- requests.exceptions 
-- bs4 
-- plotly.graph_objects 
-- datetime
-- matplotlib.pyplot
+- python = "^3.8"
+- pandas = "^1.1.5"
+- numpy = "^1.19.4"
+- matplotlib = "^3.3.3"
+- requests = "^2.25.1"
+- bs4 = "^0.0.1"
+- plotly = "^4.14.1"
+- DateTime = "^4.3"
+
+- Sphinx = "^3.3.1"
+- sphinxcontrib-napoleon = "^0.7"
+
 
 ## Usage
 
