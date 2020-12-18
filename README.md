@@ -12,15 +12,23 @@ $ pip install -i https://test.pypi.org/simple/ finnhub
 
 ## Features
 
-- TODO
+- This package allow users to get data and data visualization from Finnhub API.
 
 ## Dependencies
 
-- TODO
+- numpy
+- matplotlib.pyplot
+- pandas 
+- requests
+- requests.exceptions 
+- bs4 
+- plotly.graph_objects 
+- datetime
+- matplotlib.pyplot
 
 ## Usage
 
-- TODO
+- Search data and get dataframe or plot.
 
 ## Documentation
 
